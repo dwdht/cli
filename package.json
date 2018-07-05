@@ -1,6 +1,6 @@
 {
   "name": "@dwdht/cli",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "dWeb CLI For Archiving Key/Value Data Via BitTorrent's DHT.",
   "contributors": [
     "Jared Rice Sr. <jared@dwebs.io>",

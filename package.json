@@ -1,6 +1,6 @@
 {
   "name": "@dwdht/cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "dWeb CLI For Archiving Key/Value Data Via BitTorrent's DHT.",
   "contributors": [
     "Jared Rice Sr. <jared@dwebs.io>",
@@ -15,7 +15,7 @@
     "dhtcli": "index.js"
   },
   "dependencies": {
-    "@dwdht/bittorrent": "@dwdht/bittorrent#master",
+    "bittorrent-dht": "*",
     "minimist": "^1.2.0"
   },
   "devDependencies": {

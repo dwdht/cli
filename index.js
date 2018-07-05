@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 var args = require('minimist')(process.argv.slice(2))
-var DHT = require('@dwdht/cli')
+var DHT = require('bittorrent-dht')
 
 var first = args._[0]
 var second = args._[1]
